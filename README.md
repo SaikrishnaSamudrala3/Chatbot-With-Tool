@@ -1,4 +1,4 @@
-#Agentic AI chatbot Project
+#Agentic AI chatbot with tool Project
 
 Commands to create Virtual env in VS code and getting started with RAG project
 
